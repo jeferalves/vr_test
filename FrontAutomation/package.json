@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@cypress/puppeteer": "^0.1.4",
+    "cypress": "^13.10.0"
+  }
+}
