@@ -6,7 +6,7 @@ Se você ainda não tem o Node.js instalado, faça o download e instale a partir
 ### 2. Instalar o Cypress
 Abra o prompt de comando e vá até o diretório `FrontAutomation`:
 
-cd caminho/para/seu/FrontAutomation
+cd caminho/FrontAutomation
 
 Em seguida, instale o Cypress usando o npm:
 
